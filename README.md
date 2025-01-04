@@ -22,17 +22,17 @@
 
 
 <!--Intro start-->
-- 🌱 As a _nature enthusiast_, I find solace and inspiration in the natural world. My passion for _music_ enriches my life, while the written word transports me to other realms. I am an _ardent traveler_, eager to explore the globe, and I am captivated by the _mysteries of the cosmos_.
+- 🌱 My interests are diverse, encompassing a love for the _natural world_, a passion for _music_, a voracious appetite for _literature_, a _wanderlust spirit_, and a profound curiosity about _astronomy_ and _space exploration_.
 
-- 🔭 I am an **Enthusiastic Programmer**. I’m currently working on **ReactJS, NextJS, Nodejs, MongoDB**
+- 🔭 I am an *Enthusiastic Programmer*. I’m currently working on **ReactJS, NextJS, Nodejs, MongoDB**
 
 
-- ☁️ I am a **Web Developer**, with knowledge of **Deep Learning** and **AI technologies**.
+- ☁️ I am a **Web Developer**, with knowledge of _Deep Learning_ and _AI technologies_.
 
 - 📝 I like to solve challenging problems
 
 
-- 💬 Ask me about **C++, Javascript, ReactJS, Tailwind CSS**
+- 💬 Ask me about C++, Javascript, ReactJS, Tailwind CSS.
 
 - 📫 Reach me out : **sahildewangan73@gmail.com**
 
