@@ -1,7 +1,7 @@
 
 <!--horizontal divider(gradiant)-->
 <!-- ![Looney Tunes GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)-->
-![Looney Tunes GIF](https://github.com/sahil7303/sahil7303/coder.webp)
+![Looney Tunes GIF]([https://github.com/sahil7303/sahil7303/coder.webp](https://raw.githubusercontent.com/sahil7303/sahil7303/refs/heads/main/coder.webp))
 
 
 
