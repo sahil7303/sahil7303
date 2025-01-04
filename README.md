@@ -27,7 +27,7 @@
 - 🔭 I am an *Enthusiastic Programmer*. I’m currently working on **ReactJS, NextJS, Nodejs, MongoDB**
 
 
-- ☁️ I am a **Web Developer**, with knowledge of _Deep Learning_ and _AI technologies_.
+- ☁️ I am a **Software Developer**, with knowledge of _Deep Learning_ and _AI technologies_.
 
 - 📝 I like to solve challenging problems
 
