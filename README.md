@@ -1,9 +1,9 @@
 
 <!--horizontal divider(gradiant)-->
-<div align="center">
+
   <!-- ![Looney Tunes GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)-->
   ![Looney Tunes GIF](https://raw.githubusercontent.com/sahil7303/sahil7303/refs/heads/main/coder.webp)
-</div>
+<!-- </div> -->
 
 
 
