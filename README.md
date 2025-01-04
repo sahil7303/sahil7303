@@ -22,19 +22,21 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **ReactJS, NextJS, Nodejs, MongoDB**
+- 🌱 As a _nature enthusiast_, I find solace and inspiration in the natural world. My passion for music enriches my life, while the written word transports me to other realms. I am an ardent traveler, eager to explore the globe, and I am captivated by the mysteries of the cosmos.
 
-<!-- - 🌱 I’m currently learning **bla bla bla** -->
+- 🔭 I am an **Enthusiastic Programmer**. I’m currently working on **ReactJS, NextJS, Nodejs, MongoDB**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- ☁️ I am a **Web Developer**, with knowledge of **Deep Learning** and **AI technologies**.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 📝 I like to solve challenging problems
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 💬 Ask me about **C++, Javascript, ReactJS, Tailwind CSS**
+
+- 📫 Reach me out : **sahildewangan73@gmail.com**
+
+<!-- - 🏠 Don't hesitate to drop me a **👋** on Discord –  [name](url) my username! -->
 <!--Intro end-->
 
 
@@ -46,14 +48,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sahil7303&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil7303&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil7303&show_icons=true&locale=en&layout=donut-vertical&theme=dark" alt="sahil7303" />
   
   </td>
 </tr>
@@ -63,7 +65,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=sahil7303&theme=monokai&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
@@ -83,7 +85,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,aws,c,cpp,css,discord,github,html,java,js,npm,linux,ubuntu,windows,md,mongodb,mysql,nextjs,nodejs,postman,py,react,vite,redux,tailwind,ts,vscode,sublime,anaconda,arduino,babel,webpack,bash,bootstrap,django,flask,opencv,gcp,pytorch,tensorflow,sass,stackoverflow,&perline=14" />
   </a>
 </p>
 
@@ -106,13 +108,6 @@
   
 </p>
 
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
 
 
 <!--horizontal divider(gradiant)-->
