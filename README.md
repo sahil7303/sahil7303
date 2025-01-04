@@ -22,7 +22,7 @@
 
 
 <!--Intro start-->
-- 🌱 As a _nature enthusiast_, I find solace and inspiration in the natural world. My passion for music enriches my life, while the written word transports me to other realms. I am an ardent traveler, eager to explore the globe, and I am captivated by the mysteries of the cosmos.
+- 🌱 As a _nature enthusiast_, I find solace and inspiration in the natural world. My passion for _music_ enriches my life, while the written word transports me to other realms. I am an _ardent traveler_, eager to explore the globe, and I am captivated by the _mysteries of the cosmos_.
 
 - 🔭 I am an **Enthusiastic Programmer**. I’m currently working on **ReactJS, NextJS, Nodejs, MongoDB**
 
