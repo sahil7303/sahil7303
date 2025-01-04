@@ -1,6 +1,7 @@
 
 <!--horizontal divider(gradiant)-->
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
+![Looney Tunes GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
