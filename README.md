@@ -85,7 +85,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,aws,c,cpp,css,discord,github,html,java,js,npm,linux,ubuntu,windows,md,mongodb,mysql,nextjs,nodejs,postman,py,react,vite,redux,tailwind,ts,vscode,sublime,anaconda,arduino,babel,webpack,bash,bootstrap,django,flask,opencv,gcp,pytorch,tensorflow,sass,stackoverflow,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,aws,c,cpp,css,discord,github,html,java,js,npm,linux,ubuntu,windows,md,mongodb,mysql,nextjs,nodejs,postman,py,react,vite,redux,tailwind,ts,vscode,sublime,anaconda,arduino,babel,webpack,bash,bootstrap,django,flask,opencv,gcp,pytorch,tensorflow,sass,stackoverflow,atom,blender,cloudflare,cmake,debian,docker,express,prisma,ai,kali,matlab,latex,powershell,&perline=14" />
   </a>
 </p>
 
